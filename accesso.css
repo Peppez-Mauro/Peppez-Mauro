@@ -1,0 +1,25 @@
+body{
+	background-image: url("https://static.bandainamcoent.eu/high/dragon-ball/dragon-ball-sparking-zero/00-page-setup/dbsz-game-page-background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: Metropolis, Gotham, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+#wikimedia{
+	text-align: center;
+}
+#acc{
+	color: white;
+	text-align: center;
+	margin-top: 35px;
+	margin-bottom: 25px;
+	padding-bottom: 75px;
+	width: auto;
+	margin-left: 35%;
+	margin-right: 35%;
+	border: ridge;
+	border-color: #44cae4;
+	border-radius: 10px;
+}
+h1{
+	padding-bottom: 50px;
+}

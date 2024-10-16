@@ -1,0 +1,82 @@
+body{
+    background-image: url("https://images3.alphacoders.com/134/thumb-1920-1349921.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Metropolis, Gotham, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+#Menu{
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: -17px;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: #05194c;
+    position: sticky;
+    top:0;
+}
+#access{
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 50%;
+    width: 3.5%;
+}
+#Ricarica{
+    width:7%;
+}
+.Tutti{
+    width: 13%;
+    padding-left: 25px;
+}
+#personaggi{
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+}
+#caratteristiche{
+    padding-left: 25px;
+}
+.Prog{
+    display: flex;
+    align-content: flex-end;
+}
+#Contenitore{
+    width: auto;
+}
+#Combattenti{
+    background-color: black;
+    text-align: center;
+    padding-top: 15px;
+    border: groove;
+    border-color:  #44cae4;
+}
+.pg{
+    text-align: left;
+    width: 30%;
+    height: 30%;
+    background-color: white;
+}
+#Image1{
+    width: 400px;
+    height:600px;
+    margin-right: 35px;
+    margin-left: 25px;
+    margin-top: 90px;
+    text-align: left;
+    position: sticky;
+    top: 22.5%;
+    border: groove;
+    border-color: #44cae4;
+}
+h1{
+    color: #44cae4;
+    font-size: 48px;
+}
+h2{
+    color: white;
+    font-size: 36px;
+}
+h4{
+    color: white;
+    font-size: 20px;
+}
