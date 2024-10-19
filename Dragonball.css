@@ -22,6 +22,13 @@ body{
 	position: sticky;
 	top:0;
 }
+#video1{
+	margin-left: -10px;
+	border: none;
+	border-radius: 0px;
+	margin-top: -18px;
+	margin-bottom: -158px;
+}
 #Ricarica{
 	width:7%;
 }
