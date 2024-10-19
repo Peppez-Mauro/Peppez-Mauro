@@ -47,6 +47,7 @@ div{
 }
 #mod{
     width: 70%;
+    border-color: #05194c;
     border-radius: 10px;
     margin-left: 15%;
 }
