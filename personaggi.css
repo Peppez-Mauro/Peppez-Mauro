@@ -19,13 +19,25 @@ body{
     margin-top: 10px;
     border-radius: 50%;
     width: 3.5%;
+    transition: transform 0.3s ease-in-out;
+}
+#access:hover{
+    transform: scale(1.1);
 }
 #Ricarica{
     width:7%;
+    transition: transform 0.3s ease-in-out;
+}
+#Ricarica:hover{
+    transform: scale(1.1);
 }
 .Tutti{
     width: 13%;
     padding-left: 25px;
+    transition: transform 0.3s ease-in-out;
+}
+.Tutti:hover{
+    transform: scale(1.1);
 }
 #personaggi{
     text-decoration: none;
